@@ -20,7 +20,6 @@ The goal of this project is to integrate the latest Natural Language Processing 
 
 * 2 - With is Most Common Words in the CORD-19 Dataset?
 
-* 3 - 
 
 # Tools
 
