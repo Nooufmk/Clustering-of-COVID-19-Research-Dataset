@@ -14,7 +14,7 @@ Given the large number of literature and the rapid spread of COVID-19, it is dif
 
 The goal of this project is to integrate the latest Natural Language Processing (NLP) technologies and apply modern document analysis methods.
 
-# Goals:
+# Questions:
 
 * 1 - Can clustering similar research articles together simplify the search for related publications?
 
