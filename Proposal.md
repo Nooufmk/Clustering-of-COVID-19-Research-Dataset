@@ -12,7 +12,7 @@ Given the large number of literature and the rapid spread of COVID-19, it is dif
 
 # Objective:
 
---
+The goal of this project is to integrate the latest Natural Language Processing (NLP) technologies and apply modern document analysis methods.
 
 # Goals:
 
