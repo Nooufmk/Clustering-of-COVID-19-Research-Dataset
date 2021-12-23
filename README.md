@@ -1,5 +1,5 @@
 # Clustering-of-COVID-19-Research-Dataset
-SDAIA T5 Data Science Bootcamp Classfication Project by
+SDAIA T5 Data Science Bootcamp Clustering Project by
 * [Project Proposal](https:)
 * [Final Report](https:)
 * [Source Code](https:)
