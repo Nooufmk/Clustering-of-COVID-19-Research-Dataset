@@ -4,7 +4,7 @@
 * Bushra Al Zahrani
 * Mashael Asiri
 
-![TLC logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iaea.org%2Far%2Falmawadie%2Fcovid-19&psig=AOvVaw3U_QRsJvLU24IllU_KNe5t&ust=1640361171517000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjQq9qj-vQCFQAAAAAdAAAAABAD)
+![TLC logo] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iaea.org%2Far%2Falmawadie%2Fcovid-19&psig=AOvVaw3U_QRsJvLU24IllU_KNe5t&ust=1640361171517000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjQq9qj-vQCFQAAAAAdAAAAABAD)
 
 
 # COVID-19 Research Dataset : An Overview
