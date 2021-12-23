@@ -5,6 +5,6 @@ SDAIA T5 Data Science Bootcamp Classfication Project by
 * [Source Code](https:)
 * [Presentation Slides](https)
 ## Prepared by
+* [Nouf Almalki](https://github.com/Nooufmk)
+* [Bushra Al Zahrani](https://github.com/bushra3e)
 * [Mashael Asiri](https://github.com/Mashael2030)
-* [Ohood Alharbi](https://github.com/Ohood-Alharbi)
-* [Nadiah Ajrasiaa](https://github.com/nadiahajrasiaa)
