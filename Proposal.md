@@ -1,9 +1,4 @@
 # Clustering of COVID-19 Research Dataset
-
-* Nouf Almalki
-* Bushra Al Zahrani
-* Mashael Asiri
-
 ![TLC logo](https://www.iaea.org/sites/default/files/styles/2016_landing_page_banner_1140x300/public/covid-19-updates-banner-a.png?itok=hoNEz_cU&timestamp=1600269590)
 
 
