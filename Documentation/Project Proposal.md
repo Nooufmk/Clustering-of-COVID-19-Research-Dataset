@@ -16,13 +16,14 @@ The goal of this project is to integrate the latest Natural Language Processing 
 
 # Questions:
 
-1. Can clustering similar research articles together simplify the search for related publications?
-
-2. With is Most Common Words in the CORD-19 Dataset?
+1.  Can clustering similar research articles together simplify the search for related publications?
+2.  With is Most Common Words in the CORD-19 Dataset?
 
 
 # Tools
+* **Technologies:** Python, Jupyter notebook.
+* **Libraries:** NumPy, Pandas, Sklearn, Matplotlib, Seaborn,Tableau..
 
-**Technologies:** Python, Jupyter notebook.
-**Libraries:** NumPy, Pandas, Sklearn, Matplotlib, Seaborn, Tableau.
+
+
 
