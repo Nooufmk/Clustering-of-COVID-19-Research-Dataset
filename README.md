@@ -1,6 +1,6 @@
 # Clustering-of-COVID-19-Research-Dataset
 SDAIA T5 Data Science Bootcamp Clustering Project by
-* [Project Proposal](https://github.com/Nooufmk/Clustering-of-COVID-19-Research-Dataset/blob/main/Proposal.md)
+* [Project Proposal](https://github.com/Nooufmk/Clustering-of-COVID-19-Research-Dataset/blob/main/Documentation/Project%20Proposal.md)
 * [Final Report](https:)
 * [Source Code](https:)
 * [Presentation Slides](https)
